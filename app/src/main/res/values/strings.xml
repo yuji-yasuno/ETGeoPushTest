@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ETGeoPushTest</string>
+    <string name="hello_world">Register your subscriber key here</string>
+    <string name="action_settings">Settings</string>
+</resources>
